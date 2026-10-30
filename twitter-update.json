@@ -1,6 +1,6 @@
 {
-  "version": "v12.37.2-prod.01 (patches 3.71.1.mpp)",
-  "versionCode": 31,
-  "zipUrl": "https://github.com/hirowassan/module/releases/download/31/twitter-piko-module-v12.37.2-prod.01-all.zip",
+  "version": "v12.38.1-prod.01 (patches 3.72.3.mpp)",
+  "versionCode": 32,
+  "zipUrl": "https://github.com/hirowassan/module/releases/download/32/twitter-piko-module-v12.38.1-prod.01-all.zip",
   "changelog": "https://raw.githubusercontent.com/hirowassan/module/update/build.md"
 }
